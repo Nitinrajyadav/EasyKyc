@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "340352670865",
+    "firebase_url": "https://hackthonkycapp.firebaseio.com",
+    "project_id": "hackthonkycapp",
+    "storage_bucket": "hackthonkycapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340352670865:android:9b4df56f67add2c6",
+        "android_client_info": {
+          "package_name": "com.nitin.ekyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340352670865-gi4hc0fjnpeohnvqgp27dj4cbf994jnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97w90gfslfItu1ME_wZ3MHnSliFUsnzY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
